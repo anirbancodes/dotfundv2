@@ -1,0 +1,4 @@
+baseURL = "https://dotfundv2.netlify.app"
+languageCode = "en-us"
+title = "Dot Fund"
+theme = "dimension"
